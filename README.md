@@ -8,20 +8,20 @@
  
 ---
  
-## about me
+## About Me
  
-Hi, I'm **Mohammad Hussian** — a college student focused on AI/ML. I like understanding how things actually work under the hood, not just using them. Currently deep in Python OOP, data science fundamentals, and C++.
+Hi, I'm **Mohammad Hussian** — a college student focused on AI/ML. I like understanding how things actually work under the hood, not just using them. Currently deep in Python, data science fundamentals, and C++.
  
 - 🎓 College student studying AI / Machine Learning
 - 🧠 Interested in ML fundamentals, deep learning, and LLMs
 - 🐍 Strong in Python, building up C++
 - 📊 Currently learning **Pandas** and **NumPy**
-- 🔧 I build small projects to solidify what I learn
-- 📍 Bhopal, India
+- 🔧 I build big and small projects to solidify what I learn
+- 📍 Indore, India
  
 ---
  
-## tech stack
+## Tech Stack
  
 **Languages**
  
@@ -31,28 +31,31 @@ Hi, I'm **Mohammad Hussian** — a college student focused on AI/ML. I like unde
 **AI / ML**
  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
  
 **Data**
  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
- 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
+
 **Tools**
  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
  
 ---
  
-## currently learning
+## Currently Learning
  
 | topic | status |
 |---|---|
-| Python OOP — `@property`, Operator Overloading, Generators | 🔄 in progress |
 | NumPy — arrays, broadcasting, linear algebra | 🔄 in progress |
 | Pandas — dataframes, cleaning, analysis | 🔄 in progress |
 | C++ — memory management, pointers, OOP | 🔄 in progress |
@@ -60,7 +63,7 @@ Hi, I'm **Mohammad Hussian** — a college student focused on AI/ML. I like unde
  
 ---
  
-## quick facts
+## Quick Facts
  
 ```python
 hussian = {
@@ -74,11 +77,13 @@ hussian = {
  
 ---
  
-## connect
+## Connect
  
 <div align="center">
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Hussian-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-hussain-546315402)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Mohammad%20Hussian-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mohammadhussain9805)
  
 ![Profile Views](https://komarev.com/ghpvc/?username=MdHu55a1n&style=flat-square&color=6C63FF&label=profile+views)
  
