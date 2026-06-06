@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4B6EF5,100:8A2BE2&height=200&section=header&text=Mohammad%20Hussain&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%26%20Software%20Engineer&descAlignY=58&descSize=18&descColor=ffffffcc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4B6EF5,100:8A2BE2&height=200&section=header&text=Mohammad%20Hussain&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=ffffffcc)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Systems+%26+Simulation;TUI+%2F+CLI+Developer;Building+Intelligent+Software)](https://git.io/typing-svg)
 
