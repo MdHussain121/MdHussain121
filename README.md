@@ -70,7 +70,7 @@ I build AI-powered software from the ground up — from custom language models a
 <img src="https://github-readme-stats.vercel.app/api?username=MdHussain121&show_icons=true&theme=github_dark&count_private=true&hide_border=true&card_width=400" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHussain121&layout=compact&theme=github_dark&hide_border=true&card_width=400" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=MdHussain121&theme=github-dark-blue&hide_border=true&card_width=820"/>
+<img src="https://streak-stats.demolab.com?user=MdHussain121&theme=github-dark-blue&hide_border=true&card_width=820&v=1"/>
 
 <br/>
 
