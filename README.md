@@ -88,12 +88,6 @@ I build AI-powered software from the ground up — from custom language models a
 
 All my projects are open source. I build in public, document carefully, and design repos to be readable and reproducible — not just runnable.
 
-<div align="center">
-
-[![Contribution Snake](https://raw.githubusercontent.com/MdHussain121/MdHussain121/output/github-contribution-grid-snake-dark.svg)](https://github.com/MdHussain121)
-
-</div>
-
 ---
 
 <div align="center">
