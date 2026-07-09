@@ -63,22 +63,31 @@ I build AI-powered software from the ground up — from custom language models a
 
 ---
 
-## GitHub Stats
+## GitHub Stats & Contributions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MdHussain121&show_icons=true&theme=github_dark&count_private=true&hide_border=true&card_width=400" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHussain121&layout=compact&theme=github_dark&hide_border=true&card_width=400" height="160"/>
-
-<img src="https://streak-stats.demolab.com?user=MdHussain121&theme=github-dark-blue&hide_border=true&card_width=820&v=2"/>
+[![Trophy](https://gh-trophy.cdnsoft.net/?username=MdHussain121&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=4)](https://github.com/MdHussain121)
 
 <br/>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=MdHussain121&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/MdHussain121)
+<img src="https://github-stats-extended.vercel.app/api?username=MdHussain121&show_icons=true&theme=github_dark&count_private=true&hide_border=true&card_width=400" height="160"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MdHussain121&layout=compact&theme=github_dark&hide_border=true&card_width=400" height="160"/>
+
+<img src="https://streak-stats.demolab.com?user=MdHussain121&theme=github-dark-blue&hide_border=true&card_width=820"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdHussain121&bg_color=0d1117&color=6C63FF&line=0D47A1&point=6C63FF&area=true&hide_border=true" width="100%"/>
+
+<br/>
+
+### My Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdHussain121/MdHussain121/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MdHussain121/MdHussain121/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MdHussain121/MdHussain121/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
@@ -86,7 +95,7 @@ I build AI-powered software from the ground up — from custom language models a
 
 ## Open Source & Contributions
 
-All my projects are open source. I build in public, document carefully, and design repos to be readable and reproducible — not just runnable.
+I build in public with a focus on writing reproducible, well-documented, and readable open-source software.
 
 ---
 
