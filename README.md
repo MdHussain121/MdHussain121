@@ -13,7 +13,7 @@
 
 ---
 
-I build AI-powered software from the ground up — from custom language models and computer vision systems to browser extensions and physics simulations. My focus is on understanding systems deeply by building them under the hood, keeping things local-first, performant, and purposeful.
+I build AI-powered software from the ground up, from custom language models and computer vision systems to browser extensions and physics simulations. My focus is on understanding systems deeply by building them under the hood, keeping things local-first, performant, and purposeful.
 
 ---
 
@@ -44,8 +44,6 @@ I build AI-powered software from the ground up — from custom language models a
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 **Data & Scientific Computing**
 
@@ -57,7 +55,6 @@ I build AI-powered software from the ground up — from custom language models a
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
