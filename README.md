@@ -13,7 +13,7 @@
 
 ---
 
-I build AI-powered software from the ground up, from custom language models and computer vision systems to browser extensions and physics simulations. My focus is on understanding systems deeply by building them under the hood, keeping things local-first, performant, and purposeful.
+I build AI-powered software from the ground up, from custom language models and computer vision systems. My focus is on understanding systems deeply by building them under the hood, keeping things local-first, performant, and purposeful.
 
 ---
 
